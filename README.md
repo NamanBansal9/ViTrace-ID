@@ -154,6 +154,7 @@ This project is released under the **MIT License**.
 
 ## 👤 Author
 **NAMAN BANSAL**
+
 Developed with ❤️ as an advanced computer vision system for identity-aware video understanding.
 
 If you find this project useful, please ⭐ the repository!
