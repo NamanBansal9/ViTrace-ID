@@ -1,8 +1,8 @@
-# PersonaTrace: Fine-Tuned Vision Transformer for Target Person Identification
+# ViTrace-ID: Fine-Tuned Vision Transformer for Target Person Identification
 
 ## 🚀 Overview
 
-**PersonaTrace** is an end-to-end computer vision system designed to **identify and track a specific person across an entire video** using minimal reference images. The project combines **YOLOv8-based person detection** with a **fine-tuned Vision Transformer (ViT)** to generate robust identity embeddings and perform accurate matching with temporal consistency.
+**ViTrace-ID** is an end-to-end computer vision system designed to **identify and track a specific person across an entire video** using minimal reference images. The project combines **YOLOv8-based person detection** with a **fine-tuned Vision Transformer (ViT)** to generate robust identity embeddings and perform accurate matching with temporal consistency.
 
 This project is built with a strong focus on **real-world deployment**, **model persistence**, and **evaluation reproducibility**, ensuring that results remain stable across sessions without requiring repeated training or inference.
 
